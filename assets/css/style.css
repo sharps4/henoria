@@ -2603,7 +2603,7 @@ p.form-message.success, p.form-message.error {
       -o-transition: all 0.3s ease-out 0s;
       transition: all 0.3s ease-out 0s; }
       .footer-area .social li a:hover {
-        color: #0067f4; }
+        color: #fab31a; }
   .footer-area .footer-support {
     padding-top: 21px; }
     .footer-area .footer-support span {
@@ -2648,6 +2648,10 @@ p.form-message.success, p.form-message.error {
         color: #fff; }
     .footer-area.footer-dark .copyright .text {
       color: #fff; }
+
+      #scl:hover {
+        color: rgb(255, 213, 25);
+      }
 
 /*===== BACK TO TOP =====*/
 .back-to-top {
