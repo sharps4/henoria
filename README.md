@@ -24,5 +24,5 @@ Voir les participants à ce projet [contributors](https://github.com/your/projec
 
 ## License
 
-Ce project est sous license MIT License - voir [LICENSE.md](LICENSE.md) pour plus de détails
+Ce project est sous license MIT License - voir [LICENSE](LICENSE) pour plus de détails
 
