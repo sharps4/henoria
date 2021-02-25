@@ -15,7 +15,7 @@ Lien Trello bientôt disponible.
 
 * **Sharps** - *Initial work* - [Sharps](https://github.com/Sharps)
 
-Voir les participants à ce projet [contributors](https://github.com/your/project/contributors).
+Voir les participants à ce projet [contributors](CONTRIBUTORS).
 
 ## License
 
