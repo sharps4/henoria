@@ -15,8 +15,6 @@ Lien Trello bientôt disponible.
 
 * **Sharps** - *Initial work* - [Sharps](https://github.com/Sharps)
 
-Voir les participants à ce projet [CONTRUBUTORS.md](CONTRIBUTORS).
-
 ## License
 
 Ce project est sous license MIT License - voir [LICENSE](LICENSE) pour plus de détails
