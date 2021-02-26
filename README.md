@@ -13,7 +13,7 @@ Lien Trello bientôt disponible.
 
 ## Auteur
 
-* **Sharps** - *Initial work* - [Sharps](https://github.com/Sharps)
+* **Sharps** - *Initial work* - [Sharps](https://github.com/Sharps4)
 
 ## License
 
