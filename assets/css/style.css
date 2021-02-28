@@ -1,12 +1,4 @@
 /*-----------------------------------------------------------------------------------
-
-    Template Name: Smash - Bootstrap Template
-    Template URI: uideck.com
-    Author: UIdeck
-    Version: 1.0
-
------------------------------------------------------------------------------------
-
     CSS INDEX
     ===================
 
@@ -18,6 +10,9 @@
 -----------------------------------------------------------------------------------*/
 /*===========================
       01.COMMON css 
+===========================*/
+/*===========================
+      WHITE THEME
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800");
 body {
@@ -2664,7 +2659,7 @@ p.form-message.success, p.form-message.error {
   height: 45px;
   line-height: 45px;
   border-radius: 5px;
-  background-color: #0067f4;
+  background-color: #f3a81c;
   text-align: center;
   z-index: 99;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -2673,9 +2668,10 @@ p.form-message.success, p.form-message.error {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   display: none; }
-  .back-to-top:hover {
-    color: #fff;
-    background-color: #0067f4; }
+
+.back-to-top:hover {
+  color: #fff;
+  background-color: #f3a412; }
 
 
 /*SCROLLBAR */
@@ -2697,3 +2693,11 @@ p.form-message.success, p.form-message.error {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+/*===========================
+      BLACK THEME
+===========================*/
+
+
