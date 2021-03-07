@@ -2706,11 +2706,11 @@ p.form-message.success, p.form-message.error {
     color: #121212; }
 .contact-info .single-contact-info.contact-color-1 .contact-info-icon i {
   background-color: #121212; }
-.contact-info .single-contact-info.contact-color-2 .contact-info-icon i {
+.contact-info .single-contact-info.contact-color-4 .contact-info-icon i {
   background-color: #fc3832; }
 .contact-info .single-contact-info.contact-color-3 .contact-info-icon i {
   background-color: #005ad5; }
-  .contact-info .single-contact-info.contact-color-4 .contact-info-icon i {
+  .contact-info .single-contact-info.contact-color-2 .contact-info-icon i {
     background-color: #670097; }
 
 .contact-wrapper .contact-title {
