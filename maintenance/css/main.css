@@ -355,10 +355,10 @@ input.input100 {
 /*---------------------------------------------*/
 .bg-g1 {
   background: #f7d205;
-  background: -webkit-linear-gradient(-45deg, #e4b432, #f2dc18, #ffee01);
-  background: -o-linear-gradient(-45deg, #e4b432, #f2dc18, #ffee01);
-  background: -moz-linear-gradient(-45deg, #e4b432, #f2dc18, #ffee01);
-  background: linear-gradient(-45deg, #e4b432, #f2dc18, #ffee01);
+  background: -webkit-linear-gradient(-45deg, #ffb400, #f7e500, #ffb400);
+  background: -o-linear-gradient(-45deg, #ffb400, #f7e500, #ffb400);
+  background: -moz-linear-gradient(-45deg, #ffb400, #f7e500, #ffb400);
+  background: linear-gradient(-45deg, #ffb400, #f7e500, #ffb400);
 }
 
 
@@ -427,10 +427,10 @@ input.input100 {
   top: 0;
   left: 0;
   background: #f8c10c;
-  background: -webkit-linear-gradient(45deg, #f38428, #f1a517, #e2a727);
-  background: -o-linear-gradient(45deg, #f38428, #f1a517, #e2a727);
-  background: -moz-linear-gradient(45deg, #f38428, #f1a517, #e2a727);
-  background: linear-gradient(45deg, #f38428, #f1a517, #e2a727);
+  background: -webkit-linear-gradient(45deg, #f7c317, #ffb81e, #f7c317);
+  background: -o-linear-gradient(45deg, #f7c317, #ffb81e, #f7c317);
+  background: -moz-linear-gradient(45deg, #f7c317, #ffb81e, #f7c317);
+  background: linear-gradient(45deg, #f7c317, #ffb81e, #f7c317);
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   -moz-transition: all 0.4s;
